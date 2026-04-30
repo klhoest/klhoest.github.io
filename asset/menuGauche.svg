@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55.198mm" height="124.27mm" version="1.1" viewBox="0 0 55.198 124.27" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath id="clipPath78">
+			<path transform="translate(-61.056 -24.78)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath80">
+			<path transform="translate(-33.061 -24.822)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath82">
+			<path transform="translate(-108.92 -24.738)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath84">
+			<path transform="translate(-62.642 -62.478)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath86">
+			<path transform="translate(-34.647 -62.519)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath88">
+			<path transform="translate(-147.15 -62.436)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath90">
+			<path transform="translate(-62.642 -100.81)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath92">
+			<path transform="translate(-34.647 -100.85)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath94">
+			<path transform="translate(-137.75 -100.77)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath96">
+			<path transform="translate(-62.642 -143.25)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath98">
+			<path transform="translate(-34.647 -143.29)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath100">
+			<path transform="translate(-145.75 -143.21)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath102">
+			<path transform="translate(-63.002 -190.15)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath104">
+			<path transform="translate(-35.008 -190.2)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath106">
+			<path transform="translate(-116.11 -190.11)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath108">
+			<path transform="translate(-63.002 -354.11)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath110">
+			<path transform="translate(-35.007 -354.15)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath112">
+			<path transform="translate(-150.11 -354.1)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath114">
+			<path transform="translate(-63.002 -313.57)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath116">
+			<path transform="translate(-36.007 -313.61)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath118">
+			<path transform="translate(-149.94 -313.57)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath120">
+			<path transform="translate(-63.002 -273.03)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath122">
+			<path transform="translate(-89.903 -273.03)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath124">
+			<path transform="translate(-35.007 -273.07)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath126">
+			<path transform="translate(-63.002 -232.49)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath128">
+			<path transform="translate(-35.007 -232.53)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+		<clipPath id="clipPath130">
+			<path transform="translate(-140.11 -232.45)" d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-.32952 -.2758)">
+		<text x="1.0158789" y="2.9559226" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278" xml:space="preserve"><tspan x="1.0158789" y="2.9559226">Android</tspan><tspan x="1.0158789" y="17.154373">Java / Kotlin</tspan><tspan x="1.0158789" y="31.529205">Intégration continue</tspan><tspan x="0.32801268" y="119.09047">RX / Flow / coroutines Kotlin </tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.205 123.49)" d="m0 0h126.53" clip-path="url(#clipPath78)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 .32952 123.48)" d="m0 0h130.35" clip-path="url(#clipPath80)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 46.953 123.5)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath82)" fill="#fff"/>
+		<text x="0.88895637" y="105.79131" font-size="4.2333px" stroke-width=".35278" xml:space="preserve"><tspan x="0.88895637" y="105.79131" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278">MVVM </tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.765 110.19)" d="m0 0h126.53" clip-path="url(#clipPath84)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 .88909 110.18)" d="m0 0h95.118" clip-path="url(#clipPath86)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 36.345 110.21)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath88)" fill="#fff"/>
+		<text x="0.88895637" y="92.26828" font-size="4.2333px" stroke-width=".35278" xml:space="preserve"><tspan x="0.88895637" y="92.26828" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278">Retroﬁt</tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.765 96.668)" d="m0 0h126.53" clip-path="url(#clipPath90)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 .88909 96.653)" d="m0 0h100.15" clip-path="url(#clipPath92)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 37.262 96.683)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath94)" fill="#fff"/>
+		<text x="0.88895637" y="77.296249" font-size="4.2333px" stroke-width=".35278" xml:space="preserve"><tspan x="0.88895637" y="77.296249" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278">Gradle / modules / build ﬂavors</tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.765 81.696)" d="m0 0h126.53" clip-path="url(#clipPath96)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 .88909 81.682)" d="m0 0h77.794" clip-path="url(#clipPath98)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 29.501 81.711)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath100)" fill="#fff"/>
+		<text x="1.016062" y="60.749779" font-size="4.2333px" stroke-width=".35278" xml:space="preserve"><tspan x="1.016062" y="60.749779" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278">Tests unitaires mockés</tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.892 65.15)" d="m0 0h126.53" clip-path="url(#clipPath102)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 1.0162 65.135)" d="m0 0h100.91" clip-path="url(#clipPath104)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 37.565 65.165)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath106)" fill="#fff"/>
+		<text x="1.0158789" y="45.815636" font-size="4.2333px" stroke-width=".35278" xml:space="preserve"><tspan x="1.0158789" y="45.815636" fill="#ffffff" font-family="'Open Sans'" font-size="3.5276px" stroke-width=".35278">Git</tspan></text>
+		<path transform="matrix(.35278 0 0 -.35278 10.892 7.3091)" d="m0 0h126.53" clip-path="url(#clipPath108)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 1.0161 7.2972)" d="m0 0h112.14" clip-path="url(#clipPath110)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 41.622 7.3119)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.958 1.324-2.958 2.958 1.324 2.958 2.958 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath112)" fill="#fff"/>
+		<path transform="matrix(.35278 0 0 -.35278 10.892 21.611)" d="m0 0h126.53" clip-path="url(#clipPath114)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 1.3688 21.598)" d="m0 0h111.35" clip-path="url(#clipPath116)" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 41.563 21.613)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.958 1.324-2.958 2.958 1.324 2.958 2.958 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath118)" fill="#fff"/>
+		<path transform="matrix(.35278 0 0 -.35278 10.892 35.914)" d="m0 0h126.53" clip-path="url(#clipPath120)" fill="none" stroke="#1e87c9" stroke-miterlimit="10"/>
+		<path transform="matrix(.35278 0 0 -.35278 20.382 35.914)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.958 1.324-2.958 2.958 1.324 2.958 2.958 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath122)" fill="#fff"/>
+		<g fill="none" stroke-miterlimit="10">
+			<path transform="matrix(.35278 0 0 -.35278 1.0161 35.9)" d="m0 0 51.938-0.042" clip-path="url(#clipPath124)" stroke="#fff"/>
+			<path transform="matrix(.35278 0 0 -.35278 10.892 50.216)" d="m0 0h126.53" clip-path="url(#clipPath126)" stroke="#1e87c9"/>
+			<path transform="matrix(.35278 0 0 -.35278 1.0161 50.201)" d="m0 0h126.82" clip-path="url(#clipPath128)" stroke="#fff"/>
+		</g>
+		<path transform="matrix(.35278 0 0 -.35278 46.561 50.23)" d="m0 0c0-1.634-1.324-2.958-2.958-2.958s-2.959 1.324-2.959 2.958 1.325 2.958 2.959 2.958 2.958-1.324 2.958-2.958" clip-path="url(#clipPath130)" fill="#fff"/>
+	</g>
+</svg>
