@@ -9,7 +9,7 @@
 
 <body>
 
-  <div class="fondbleu">
+  <aside>
     <div class="meme">
       <img src="asset/hd/profil.avif" alt="ma photo de profil"/>
       <div class="text" >
@@ -19,77 +19,76 @@
       </div>
     </div>
     <div class="grilleContact">
-      <div class="div1"><img src="asset/chapeau.svg"/></div>
-      <div class="div2">Diplômé en 2016 à l’école d’ingénieur Polytech Sorbonne, spécialité Systèmes Embarqués, j’ai une expérience de développement Android professionelle de 8 ans</div>
-      <div class="div3"><img src="asset/carte.svg"/></div>
-      <div class="div4">Avenue de Muret <br />31300 Toulouse</div>
-      <div class="div5"><img src="asset/bulle.svg"/></div>
-      <div class="div6">kevin.lhoest@gmail.com <br />06 77 11 56 28</div>
-      <div class="div7"><img src="asset/fiole.svg"/></div>
+      <div><img src="asset/chapeau.svg"/></div>
+      <div>Diplômé en 2016 à l’école d’ingénieur Polytech Sorbonne, spécialité Systèmes Embarqués, j’ai une expérience de développement Android professionelle de 8 ans</div>
+      <div><img src="asset/carte.svg"/></div>
+      <div>Avenue de Muret <br />31300 Toulouse</div>
+      <div><img src="asset/bulle.svg"/></div>
+      <div>kevin.lhoest@gmail.com <br />06 77 11 56 28</div>
+      <div><img src="asset/fiole.svg"/></div>
       <div style="font-size: 1.5em;">Compétences</div>
     </div>
-    <img class="sidebar" src="asset/menuGauche.svg" />
-  </div>
+    <img class="competence" src="asset/menuGauche.svg" />
+  </aside>
 
 
-  <div class="main" id="main">
-    
-    <div class="card"> 
+  <main>
+    <article> 
         <h2> <img src="asset/ml.svg" class="icon"/> Expérience d'ingénieur développement</h2>
-        <div class="experience">
+        <section class="experience">
             <h3>Leclerc / Infomil / MCA : JAN 2024 - DEC 2025</h3>
             <p>Assure la migration des applications  d'Android 10 à 13 pour les terminaux Leclerc en production.
               Résous des bugs récurrents liés au réseau et à l'interface JavaScript Enrichi et maintenu un MDM (Mobile Device Management) custom.
             </p>
-        </div>
-        <div class="experience">
+        </section>
+        <section class="experience">
             <h3>Renault / MCA : JAN 2022 - DEC 2023</h3>
             <p>Conception et développement d’une intelligence artificielle embarquée pour Renault analysant les signaux CAN du véhicule afin de proposer des suggestions personnalisées à l’utilisateur en temps réel.
               Intégration du code dans une architecture spécifique conçue par Renault et une utilisation poussée des Reactive Extensions. Notre application est injectée chaque sprint dans la ROM Android Auto custom.
             </p>
-        </div>
-        <div class="experience">
+        </section>
+        <section class="experience">
             <h3>Tisseo / MCA : NOV 2020 - DEC 2021</h3>
             <p>Réécriture complète de l’interface utilisateur de l’application Tisseo, avec gestion avancée de Google Maps SDK, en suivant le principe de Clean Architecture.
               Développement 100 % en Kotlin, utilisant des outils comme les coroutines (async/await), Kotlin Flow, et Motion Layout pour des animations fluides. 
               L’application, déployée en production, est utilisée quotidiennement par les Toulousains pour leurs déplacements. 
             </p>
-        </div>
-        <div class="experience">
+        </section>
+        <section class="experience">
             <h3>Happn : AVR 2020 - JUL 2020</h3>
             <p>Développement de l'application de rencontre amoureuses Happn en Kotlin + Clean architecture avec Android Architecture Components</p>
-        </div>
-        <div class="experience">
+        </section>
+        <section class="experience">
             <h3>Europcar / Onepoint : JAN 2017 - MAR 2020</h3>
             <p>Création de plusieurs variantes d’une application mullti langue sous Android permettant au personnel d’Europcar de faire l’inspection des voitures
                à la remise des clés et génerer la facture en prenant en comptes les spéciﬁcités de chaque pays.
             </p>
-        </div>
-    </div>
+        </section>
+    </article>
 
-    <div class="card">
+    <article>
       <h2> <img src="asset/diapo.svg" class="icon"/> Apports à l’entreprise</h2>
-      <div class="experience">
+      <section class="experience">
         <h3>Synchronisation oﬄine</h3>
         <p>L’utilisateur devrait pouvoir utiliser son application mobile comme un carnet de notes sur lequel il peut renseigner des informations à n’importe quel moment 
           et se synchroniser ensuite avec les bases de données dès que possible.
         </p>
-      </div>
-      <div class="experience">
+      </section>
+      <section class="experience">
         <h3>Gestion d'ensemble d'apk et de gestion de flotte</h3>
         <p>Mes expériences m'ont conduites à devoir gérer la mise à jour de nombreuses apk groupées 
           mais aussi à gérer la gestion d'une flotte de terminaux pour le personnel tout en m'adaptant aux restrictions de Google 
           concernant le maintient de MDM (Mobile Device Management) custom.
         </p>
-      </div>
-      <div class="experience">
+      </section>
+      <section class="experience">
         <h3>Gestion élégante de la programmation asynchrone</h3>
         <p>Je maitrise la plupart des façons de gérer les appels retournant une  réponse asynchrone 
           sans créer de callback hell ou une lourdeur liée au listeners
         </p>
-      </div>
-    </div>
-</div>
+      </section>
+    </article>
+  </main>
 
 </body>
 </html>

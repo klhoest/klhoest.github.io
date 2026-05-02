@@ -12,7 +12,7 @@ body {
     margin: 0px;
 }
 
-.main {
+main {
     flex: 1;
     background: #e3e3e3;
     padding: 40px 20px;
@@ -21,7 +21,7 @@ body {
     align-items: center;
 }
 
-.card {
+article {
     width: 100%;
     max-width: 30cm;
     padding: 32px;
@@ -43,18 +43,18 @@ h2 {
     margin-right: 0.3em;
 }
 
-.experience {
+section {
     margin-bottom: 0.6cm;
 }
 
-.experience h3 {
+article h3 {
     font-weight: normal;
     color: #3aa3db;
     font-size: 1em;
     margin-bottom: 8px;
 }
 
-.experience p {
+article p {
     color: #737374;
     font-size: 1em;
     line-height: 1.2;
@@ -63,7 +63,7 @@ h2 {
 
 /* menu gauche */
 
-.fondbleu {
+aside {
     width: 8cm;
     display: flex;
     flex-direction: column;
@@ -71,12 +71,12 @@ h2 {
     padding-bottom: 2cm;
 }
 
-.fondbleu p {
+aside p {
     color: white;
     font-size: 0.7em;
 }
 
-.sidebar {
+.competence {
     margin-left: 1.3cm;
     width: 5.5cm;
 }
@@ -120,7 +120,7 @@ h2 {
         flex-direction: column;
     }
 
-    .fondbleu {
+    aside {
         width: 100%;
     }
 
