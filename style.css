@@ -8,7 +8,7 @@ body {
     flex-direction: row;
     display: flex;
     background: #f5f5f5;
-    min-width: 4cm;
+    min-width: 300px;
     margin: 0px;
 }
 
@@ -114,8 +114,26 @@ aside p {
     color: white;
 }
 
+@media (max-width: 900px) {
+    body {
+        flex-direction: row;
+    }
 
-@media (max-width: 18cm) {
+    .main {
+        padding: 20px 10px;
+    }
+
+    aside {
+        width: 6cm
+    }
+
+    .competence {
+        margin-left: 0.3cm;
+    }
+}
+
+
+@media (max-width: 700px) {
     body {
         flex-direction: column;
     }
@@ -124,7 +142,7 @@ aside p {
         width: 100%;
     }
 
-    .main {
-        padding: 20px 10px;
+    .competence {
+        margin-left: 1.3cm;
     }
 }
