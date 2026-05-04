@@ -85,13 +85,13 @@ aside p {
 .meme {
     position: relative;
     width: 100%;
-    height: 6cm;
+    height: 227px;
     overflow: hidden;
 }
 
 .meme img {
     width: 100%;
-    height: 6cm;
+    height: 100%;
     object-fit: cover;
 }
 
